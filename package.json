@@ -1,6 +1,6 @@
 {
   "name": "simple-vdf3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Simple library for Text-based VDF (Valve Data Format) (de)serialization.",
   "main": "build/index.js",
   "repository": "https://github.com/CSMTools/simple-vdf2-ts",
