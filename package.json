@@ -1,6 +1,6 @@
 {
   "name": "simple-vdf3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple library for Text-based VDF (Valve Data Format) (de)serialization.",
   "main": "build/index.js",
   "repository": "https://github.com/CSMTools/simple-vdf2-ts",
@@ -17,8 +17,8 @@
       "url": "https://github.com/wavpro"
     }
   ],
-  "engines" : { 
-    "node" : ">=13.2.0"
+  "engines": {
+    "node": ">=13.2.0"
   },
   "keywords": [
     "vdf",
@@ -32,6 +32,7 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
+    "@types/node": "^20.2.5",
     "typescript": "^5.1.3"
   }
 }
