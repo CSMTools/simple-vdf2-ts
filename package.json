@@ -1,0 +1,37 @@
+{
+  "name": "simple-vdf3",
+  "version": "1.0.0",
+  "description": "A Simple library for Text-based VDF (Valve Data Format) (de)serialization.",
+  "main": "build/index.js",
+  "repository": "https://github.com/CSMTools/simple-vdf2-ts",
+  "author": "Rossen Georgiev <hello@rgp.io>",
+  "contributors": [
+    {
+      "name": "Tom Shaver",
+      "email": "l3l_aze@yahoo.com",
+      "url": "https://github.com/l3laze"
+    },
+    {
+      "name": "Albin Hedwall",
+      "email": "albin.hedwall@gmail.com",
+      "url": "https://github.com/wavpro"
+    }
+  ],
+  "engines" : { 
+    "node" : ">=13.2.0"
+  },
+  "keywords": [
+    "vdf",
+    "Valve",
+    "Steam"
+  ],
+  "bugs": {
+    "url": "https://github.com/CSMTools/simple-vdf3/issues"
+  },
+  "homepage": "https://github.com/CSMTools/simple-vdf3#readme",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
