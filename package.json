@@ -1,10 +1,11 @@
 {
   "name": "simple-vdf3",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Simple library for Text-based VDF (Valve Data Format) (de)serialization.",
   "main": "build/index.js",
   "repository": "https://github.com/CSMTools/simple-vdf3",
   "author": "Rossen Georgiev <hello@rgp.io>",
+  "type": "module",
   "contributors": [
     {
       "name": "Tom Shaver",
