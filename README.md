@@ -1,4 +1,4 @@
-# simple-vdf2
+# simple-vdf3
 ----
 
 > A Simple library for Text-based VDF (Valve Data Format) (de)serialization.
@@ -20,7 +20,7 @@ yarn add simple-vdf3
 ## Example
 
 ```js
-import { parse, stringify } from './index.js';
+import { parse, stringify } from 'simple-vdf3';
 
 console.log(stringify(parse("VDF_CONTENT"), true))
 ```
